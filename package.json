@@ -1,7 +1,11 @@
 {
-  "name": "jstransformer-foo",
-  "version": "0.0.0",
-  "description": "Foo support for JSTransformers.",
+  "dependencies": {
+    "colon-template": "^1.0.3",
+    "extend-shallow": "^2.0.1"
+  },
+  "name": "jstransformer-colon-template",
+  "version": "0.0.1",
+  "description": "colon-template support for JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
@@ -22,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-foo.git"
+    "url": "https://github.com/jstransformers/jstransformer-colon-template.git"
   },
   "author": {
     "name": "JSTransformers Team",
