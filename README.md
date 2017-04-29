@@ -1,5 +1,7 @@
 # jstransformer-colon-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-colon-template.svg)](https://greenkeeper.io/)
+
 [colon-template](https://github.com/matthewmueller/colon-template) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-colon-template/master.svg)](https://travis-ci.org/jstransformers/jstransformer-colon-template)
