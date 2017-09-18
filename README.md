@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var colon = require('jstransformer')(require('jstransformer-colon-template'));
+var colon = require('jstransformer')(require('jstransformer-colon-template'))
 
 colon.render('Hello, :name!', {name: "World"}).body
 //=> 'Hello, World!'

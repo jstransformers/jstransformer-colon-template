@@ -4,7 +4,7 @@
     "extend-shallow": "^2.0.1"
   },
   "name": "jstransformer-colon-template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "colon-template support for JSTransformers.",
   "keywords": [
     "jstransformer"
